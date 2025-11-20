@@ -1,0 +1,7 @@
+{
+  "description": "AI-Powered Podcast Studio & Discovery App",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Copy of App"
+}
